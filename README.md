@@ -16,6 +16,8 @@
 ![Favourite](Screen/3.jpeg | width=100)
 ### Details Of Movie 
 ![Details](Screen/4.jpeg | width=100) ![Review](Screen/5.jpeg | width=100 )
+
+<img width="200" alt="portfolio_view" src="Screen/4.jpeg">
  
 
 
