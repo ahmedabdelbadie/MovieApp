@@ -1,5 +1,5 @@
 # MovieApp
-###This app show Movies with top Rated and Most Popular 
+### This app show Movies with top Rated and Most Popular 
 ## Synopsis 
 - show Top Rated Movies .
 - Show Most Popular Movie .
