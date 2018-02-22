@@ -14,8 +14,10 @@
 <img width="400" alt="Related" src="Screen/1.jpeg"> <img width="400" alt="Customization" src="Screen/2.jpeg">
 ### Navigation Drawer With Favourite Movie 
 <img width="400" alt="Favourite" src="Screen/3.jpeg">
-### Details Of Movie 
+### Details 
 <img width="300" alt="Details" src="Screen/4.jpeg"> <img width="300" alt="Review" src="Screen/5.jpeg">
+### Sorted By Name && Rated
+<img width="400" alt="Name" src="Screen/11.jpeg"> <img width="400" alt="Rated" src="Screen/12.jpeg">
 
  
 
