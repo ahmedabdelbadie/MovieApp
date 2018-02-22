@@ -11,7 +11,7 @@
 - _Use Navigation Drawerer To Show Saved Movies_ .
 ## App Photes
 ### Rated / Popular Sorted
-<img width="400" alt="Related" src="Screen/1.jpeg">  <img width="400" alt="Customization" src="Screen/1.jpeg">
+<img width="400" alt="Related" src="Screen/1.jpeg"> <img width="400" alt="Customization" src="Screen/2.jpeg">
 ### Navigation Drawer With Favourite Movie 
 <img width="600" alt="Favourite" src="Screen/3.jpeg">
 ### Details Of Movie 
