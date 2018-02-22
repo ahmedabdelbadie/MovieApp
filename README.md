@@ -13,9 +13,9 @@
 ### Rated / Popular Sorted
 <img width="400" alt="Related" src="Screen/1.jpeg"> <img width="400" alt="Customization" src="Screen/2.jpeg">
 ### Navigation Drawer With Favourite Movie 
-<img width="600" alt="Favourite" src="Screen/3.jpeg">
+<img width="400" alt="Favourite" src="Screen/3.jpeg">
 ### Details Of Movie 
-<img width="400" alt="Details" src="Screen/4.jpeg"> <img width="400" alt="Review" src="Screen/5.jpeg">
+<img width="300" alt="Details" src="Screen/4.jpeg"> <img width="300" alt="Review" src="Screen/5.jpeg">
 
  
 
