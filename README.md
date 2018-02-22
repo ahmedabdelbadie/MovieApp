@@ -11,13 +11,12 @@
 - _Use Navigation Drawerer To Show Saved Movies_ .
 ## App Photes
 ### Rated / Popular Sorted
-![Related](Screen/1.jpeg | width=100) ![Customization](Screen/2.jpeg | width=100)
+<img width="400" alt="Related" src="Screen/1.jpeg">  <img width="400" alt="Customization" src="Screen/1.jpeg">
 ### Navigation Drawer With Favourite Movie 
-![Favourite](Screen/3.jpeg | width=100)
+<img width="600" alt="Favourite" src="Screen/3.jpeg">
 ### Details Of Movie 
-![Details](Screen/4.jpeg | width=100) ![Review](Screen/5.jpeg | width=100 )
+<img width="400" alt="Details" src="Screen/4.jpeg"> <img width="400" alt="Review" src="Screen/5.jpeg">
 
-<img width="200" alt="portfolio_view" src="Screen/4.jpeg">
  
 
 
