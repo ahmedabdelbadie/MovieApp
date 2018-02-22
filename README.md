@@ -9,7 +9,7 @@
 - _Show Trailers And Review For each Movie_ .
 - _Mark Movie As A Favourite Then Save It To Watch Later_ .
 - _Use Navigation Drawerer To Show Saved Movies_ .
-## App Photes
+## Tests
 ### Rated / Popular Sorted
 <img width="400" alt="Related" src="Screen/1.jpeg"> <img width="400" alt="Customization" src="Screen/2.jpeg">
 ### Navigation Drawer With Favourite Movie 
