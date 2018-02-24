@@ -22,6 +22,21 @@
 
 <img width="400" alt="Name" src="Screen/11.jpeg"> <img width="400" alt="Rated" src="Screen/12.jpeg">
 
+### Tablet View 
+
+#### land Mode 
+
+<img width="400" alt="Name" src="Screen/6.jpeg"> <img width="400" alt="Rated" src="Screen/12.jpeg"> 
+
+<img width="400" alt="Name" src="Screen/7.jpeg"> <img width="400" alt="Rated" src="Screen/12.jpeg"> 
+
+
+#### Portrait Mode 
+
+<img width="400" alt="Name" src="Screen/8.jpeg"> <img width="400" alt="Rated" src="Screen/12.jpeg"> 
+
+<img width="400" alt="Name" src="Screen/9.jpeg"> <img width="400" alt="Rated" src="Screen/12.jpeg"> 
+
 
 ## Apk File If You Want To use it
 
