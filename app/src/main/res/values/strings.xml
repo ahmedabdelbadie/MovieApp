@@ -11,4 +11,5 @@
     <string name="close">Close</string>
     <string name="open">Open</string>
     <string name="fav">Favourite</string>
+    <string name="desc">none</string>
 </resources>

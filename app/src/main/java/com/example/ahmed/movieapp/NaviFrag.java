@@ -19,11 +19,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 
 import com.example.ahmed.movieapp.Adapter.MovieAdapter;
 import com.example.ahmed.movieapp.DataBase.RealmMovie;
 import com.example.ahmed.movieapp.Fragment.MainFragment;
 import com.example.ahmed.movieapp.Models.MovieModel;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -46,6 +48,7 @@ public class NaviFrag extends Fragment {
     private ArrayList<MovieModel> movieList;
     MovieAdapter adapter;
     Realm realm;
+    ImageView imageView ;
 
 
     public NaviFrag() {
@@ -65,13 +68,21 @@ public class NaviFrag extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.fragment_navi, container, false);
+        inflater = getLayoutInflater();
+        final View v = inflater.inflate(R.layout.fragment_navi, null);
         // Inflate the layout for this fragment
         realm = Realm.getDefaultInstance();
         mRecyclerView=v.findViewById(R.id.rv_item);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getContext() ,LinearLayoutManager.VERTICAL,false));
-
+        imageView = v.findViewById(R.id.iv_b);
+        Picasso.with(getActivity()).load(R.drawable.images).into(imageView);
         return v;
+    }
+
+    @Override
+    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        super.onActivityCreated(savedInstanceState);
+
     }
 
     public void setup(int blank_frag, DrawerLayout drawerLayout, final Toolbar toolbar) {
