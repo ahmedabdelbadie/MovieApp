@@ -26,16 +26,16 @@
 
 #### land Mode 
 
-<img width="400" alt="Name" src="Screen/6.png"> <img width="400" alt="Lan" src="Screen/12.jpeg"> 
+<img width="400" alt="Name" src="Screen/9.png"> <img width="400" alt="Lan" src="Screen/12.jpeg"> 
 
 <img width="400" alt="Name" src="Screen/7.png"> <img width="400" alt="Land" src="Screen/12.jpeg"> 
 
 
 #### Portrait Mode 
 
-<img width="400" alt="Name" src="Screen/8.png"> <img width="400" alt="Port" src="Screen/12.jpeg"> 
+<img width="600" alt="Name" src="Screen/8.png"> <img width="400" alt="Port" src="Screen/12.jpeg"> 
 
-<img width="400" alt="Name" src="Screen/9.png"> <img width="400" alt="Port" src="Screen/12.jpeg"> 
+<img width="600" alt="Name" src="Screen/6.png"> <img width="400" alt="Port" src="Screen/12.jpeg"> 
 
 
 ## Apk File If You Want To use it
